@@ -31,7 +31,12 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-05-10"
 
 ```
 
-### w12 p3
+### w12 p3 promise
 
 ![](/demo/w12/md/w12_p3_1.png)
 ![](/demo/w12/md/w12_p3_2.png)
+
+### w12 p4 await
+
+![](/demo/w12/md/w12_p4_1.png)
+![](/demo/w12/md/w12_p4_2.png)
