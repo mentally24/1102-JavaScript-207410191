@@ -1,3 +1,4 @@
+
 ```
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s"
 860f8a3 mentally24      Wed Apr 27 15:19:49 2022 +0800  W01~w09
@@ -12,3 +13,14 @@ be3a50e mentally24      Thu Apr 14 16:00:07 2022 +0800  p1 :getuser() changebtn(
 74e6145 mentally24      Thu Apr 14 15:40:30 2022 +0800  Initial commit
 
 ```
+
+### w12 p1 
+![](/demo/w12/md/w12_p1.png)
+```
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-0510"
+3a854a7 mentally24      Wed May 11 19:14:09 2022 +0800  W12-P1: Making soup demo for Async JavaScript
+
+```
+### w12 p2
+
+![](/demo/w12/md/w12_p2.png)
