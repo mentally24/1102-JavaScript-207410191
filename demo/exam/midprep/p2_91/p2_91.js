@@ -20,7 +20,7 @@ const f2c=()=> {
     const enteredInput = getUserInput().toFixed(2)
     //console.log('enteredInput',enteredInput)
     result = ((enteredInput-32)* 5/9).toFixed(2)
-    currentCalculation.textContent = `${enteredInput}C=${result}F `
+    currentCalculation.textContent = `${enteredInput}F=${result}C `
 }
 
 
