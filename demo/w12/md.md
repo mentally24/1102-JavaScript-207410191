@@ -24,3 +24,14 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-0510"
 ### w12 p2
 
 ![](/demo/w12/md/w12_p2.png)
+
+```
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-05-10"
+59d1261 mentally24      Wed May 11 19:43:42 2022 +0800  w12-P2 DOM call-back functions demo -- colors change from red (1s), green (2s), blue (1s)
+
+```
+
+### w12 p3
+
+![](/demo/w12/md/w12_p3_1.png)
+![](/demo/w12/md/w12_p3_2.png)
