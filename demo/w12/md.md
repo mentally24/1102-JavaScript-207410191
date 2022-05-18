@@ -15,7 +15,7 @@ be3a50e mentally24      Thu Apr 14 16:00:07 2022 +0800  p1 :getuser() changebtn(
 ```
 
 ### w12 p1 
-![](/demo/w12/md/w12_p1.png)
+![](https://i.imgur.com/mN1zAPg.png)
 ```
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-0510"
 3a854a7 mentally24      Wed May 11 19:14:09 2022 +0800  W12-P1: Making soup demo for Async JavaScript
@@ -23,7 +23,7 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-0510"
 ```
 ### w12 p2
 
-![](/demo/w12/md/w12_p2.png)
+![](https://i.imgur.com/Ypo6LMs.png)
 
 ```
 git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-05-10"
@@ -33,10 +33,15 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-05-10"
 
 ### w12 p3 promise
 
-![](/demo/w12/md/w12_p3_1.png)
-![](/demo/w12/md/w12_p3_2.png)
+![](https://i.imgur.com/asiZCkr.png)
+![](https://i.imgur.com/WtK3XYi.png)
 
 ### w12 p4 await
 
-![](/demo/w12/md/w12_p4_1.png)
-![](/demo/w12/md/w12_p4_2.png)
+![](https://i.imgur.com/mAEwfZO.png)
+![](https://i.imgur.com/agmwoY4.png)
+
+### w12 last
+
+
+![](https://i.imgur.com/DVc2r8S.png)
