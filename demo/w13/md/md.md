@@ -6,4 +6,4 @@
 
 ### w13-p2: use xhr object to get people.json, and show it on webpage
 
-![](p2.png)
+![](p3.png)
