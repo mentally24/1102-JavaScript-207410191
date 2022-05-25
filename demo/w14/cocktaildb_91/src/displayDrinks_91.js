@@ -1,4 +1,5 @@
 import get from './getElement.js'
+import { hideLoading } from './toggleLoading_91.js'
 
 const displayDrinks = async({drinks})=>{
 console.log('drinks',drinks )
@@ -7,6 +8,7 @@ const section = get('.section-center')
 //console.log('title',title)
 //console.log('section',section)
 if(!drinks){
+    hideLoading();
     title.textContent = 'sorry, no drinks matched your search'
     section.innerHTML = null;
     return
@@ -24,6 +26,7 @@ const  newDrinks = drinks.map((drink)=>{
     `
 }).join('')
 //console.log('newDrink',newDrinks)
+hideLoading();
 title.textContent = ''
 section.innerHTML = newDrinks
 return section
