@@ -17,7 +17,7 @@ form.addEventListener('keyup',(e)=>{
     e.preventDefault();
     console.log('input',input.value)
     const value = input.value
-    if (!value) return;
+    if (!value) return; 
     if(hasNetwork){
     presentDrinks(`${baseURL}${value}`)
     }else{
