@@ -1,0 +1,75 @@
+{
+    "data": {
+        "timezone": {
+            "id": "Africa\/Nairobi",
+            "current_time": "2022-06-18T09:55:52+03:00",
+            "code": "EAT",
+            "is_daylight_saving": false,
+            "gmt_offset": 10800
+        },
+        "ip": "105.58.19.234",
+        "type": "v4",
+        "connection": {
+            "asn": 33771,
+            "organization": "SAFARICOM-LIMITED",
+            "isp": "Safaricom Limited"
+        },
+        "location": {
+            "geonames_id": 186301,
+            "latitude": -4.050000190734863,
+            "longitude": 39.66669845581055,
+            "zip": "80001",
+            "continent": {
+                "code": "AF",
+                "name": "Africa",
+                "name_translated": "Africa"
+            },
+            "country": {
+                "alpha2": "KE",
+                "alpha3": "KEN",
+                "calling_codes": [
+                    "+254"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "Ksh",
+                        "name": "Kenyan Shilling",
+                        "symbol_native": "Ksh",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "KES",
+                        "name_plural": "Kenyan shillings"
+                    }
+                ],
+                "emoji": "🇰🇪",
+                "ioc": "KEN",
+                "languages": [
+                    {
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    {
+                        "name": "Swahili",
+                        "name_native": "Kiswahili"
+                    }
+                ],
+                "name": "Kenya",
+                "name_translated": "Kenya",
+                "timezones": [
+                    "Africa\/Nairobi"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Mombasa",
+                "name_translated": "Mombasa"
+            },
+            "region": {
+                "fips": "KE-37",
+                "alpha2": "KE-28",
+                "name": "Mombasa",
+                "name_translated": "Mombasa"
+            }
+        }
+    }
+}

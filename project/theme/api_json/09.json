@@ -1,0 +1,83 @@
+{
+    "data": {
+        "timezone": {
+            "id": "Europe\/Zurich",
+            "current_time": "2022-06-18T08:52:09+02:00",
+            "code": "CEST",
+            "is_daylight_saving": true,
+            "gmt_offset": 7200
+        },
+        "ip": "87.102.222.72",
+        "type": "v4",
+        "connection": {
+            "asn": 6772,
+            "organization": "ImproWare AG",
+            "isp": "Improware Ag"
+        },
+        "location": {
+            "geonames_id": 2659522,
+            "latitude": 47.51832962036133,
+            "longitude": 7.695109844207764,
+            "zip": "4133",
+            "continent": {
+                "code": "EU",
+                "name": "Europe",
+                "name_translated": "Europe"
+            },
+            "country": {
+                "alpha2": "CH",
+                "alpha3": "CHE",
+                "calling_codes": [
+                    "+41"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "CHF",
+                        "name": "Swiss Franc",
+                        "symbol_native": "CHF",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "CHF",
+                        "name_plural": "Swiss francs"
+                    }
+                ],
+                "emoji": "🇨🇭",
+                "ioc": "SUI",
+                "languages": [
+                    {
+                        "name": "German",
+                        "name_native": "Deutsch"
+                    },
+                    {
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    {
+                        "name": "Italian",
+                        "name_native": "Italiano"
+                    },
+                    {
+                        "name": "Romansh",
+                        "name_native": "Rumantsch Grischun"
+                    }
+                ],
+                "name": "Switzerland",
+                "name_translated": "Switzerland",
+                "timezones": [
+                    "Europe\/Zurich"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Muttenz",
+                "name_translated": "Muttenz"
+            },
+            "region": {
+                "fips": "",
+                "alpha2": "",
+                "name": "Basel-Landschaft",
+                "name_translated": "Basel-Landschaft"
+            }
+        }
+    }
+}

@@ -11,14 +11,14 @@
 ### w17-p4: do Week 4 classdemo for menu theme
 
 ![](p4.png)
-![](W17-github.png)
+![](w17-github.png)
 
 ```
 $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-06-14"
+82575d1 mentally24      Wed Jun 15 21:41:27 2022 +0800  w17-04
 846ff39 mentally24      Wed Jun 15 20:38:03 2022 +0800  w17-03
 8297fe3 mentally24      Wed Jun 15 19:57:31 2022 +0800  w17-02
 4c3fa12 mentally24      Wed Jun 15 19:41:39 2022 +0800  w17-02
 cf71a2d mentally24      Wed Jun 15 19:11:55 2022 +0800  w17-01
-
 
 ```
