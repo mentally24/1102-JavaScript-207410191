@@ -1,13 +1,13 @@
 {
     "data": {
         "timezone": {
-            "id": "America\/New_York",
-            "current_time": "2022-06-18T02:49:00-04:00",
-            "code": "EDT",
+            "id": "Europe\/Brussels",
+            "current_time": "2022-06-18T14:34:57+02:00",
+            "code": "CEST",
             "is_daylight_saving": true,
-            "gmt_offset": -14400
+            "gmt_offset": 7200
         },
-        "ip": "18.41.126.254",
+        "ip": "57.35.27.60",
         "type": "v4",
         "connection": {
             "asn": null,
@@ -15,84 +15,64 @@
             "isp": null
         },
         "location": {
-            "geonames_id": 4931972,
-            "latitude": 42.36439895629883,
-            "longitude": -71.1011962890625,
-            "zip": "02139",
+            "geonames_id": 2800866,
+            "latitude": 50.84674072265625,
+            "longitude": 4.352489948272705,
+            "zip": "1000",
             "continent": {
-                "code": "NA",
-                "name": "North America",
-                "name_translated": "North America"
+                "code": "EU",
+                "name": "Europe",
+                "name_translated": "Europe"
             },
             "country": {
-                "alpha2": "US",
-                "alpha3": "USA",
+                "alpha2": "BE",
+                "alpha3": "BEL",
                 "calling_codes": [
-                    "+1"
+                    "+32"
                 ],
                 "currencies": [
                     {
-                        "symbol": "$",
-                        "name": "US Dollar",
-                        "symbol_native": "$",
+                        "symbol": "€",
+                        "name": "Euro",
+                        "symbol_native": "€",
                         "decimal_digits": 2,
                         "rounding": 0,
-                        "code": "USD",
-                        "name_plural": "US dollars"
+                        "code": "EUR",
+                        "name_plural": "Euros"
                     }
                 ],
-                "emoji": "🇺🇸",
-                "ioc": "USA",
+                "emoji": "🇧🇪",
+                "ioc": "BEL",
                 "languages": [
                     {
-                        "name": "English",
-                        "name_native": "English"
+                        "name": "Dutch",
+                        "name_native": "Dutch"
+                    },
+                    {
+                        "name": "French",
+                        "name_native": "Français"
+                    },
+                    {
+                        "name": "German",
+                        "name_native": "Deutsch"
                     }
                 ],
-                "name": "United States",
-                "name_translated": "United States",
+                "name": "Belgium",
+                "name_translated": "Belgium",
                 "timezones": [
-                    "America\/New_York",
-                    "America\/Detroit",
-                    "America\/Kentucky\/Louisville",
-                    "America\/Kentucky\/Monticello",
-                    "America\/Indiana\/Indianapolis",
-                    "America\/Indiana\/Vincennes",
-                    "America\/Indiana\/Winamac",
-                    "America\/Indiana\/Marengo",
-                    "America\/Indiana\/Petersburg",
-                    "America\/Indiana\/Vevay",
-                    "America\/Chicago",
-                    "America\/Indiana\/Tell_City",
-                    "America\/Indiana\/Knox",
-                    "America\/Menominee",
-                    "America\/North_Dakota\/Center",
-                    "America\/North_Dakota\/New_Salem",
-                    "America\/North_Dakota\/Beulah",
-                    "America\/Denver",
-                    "America\/Boise",
-                    "America\/Phoenix",
-                    "America\/Los_Angeles",
-                    "America\/Anchorage",
-                    "America\/Juneau",
-                    "America\/Sitka",
-                    "America\/Metlakatla",
-                    "America\/Yakutat",
-                    "America\/Nome",
-                    "America\/Adak",
-                    "Pacific\/Honolulu"
+                    "Europe\/Brussels"
                 ],
-                "is_in_european_union": false
+                "is_in_european_union": true
             },
             "city": {
-                "name": "Cambridge",
-                "name_translated": "Cambridge"
+                "name": "Brussels",
+                "name_translated": "Brussels"
             },
             "region": {
                 "fips": "",
                 "alpha2": "",
-                "name": "Massachusetts",
-                "name_translated": "Massachusetts"
+                "name": "Brussels Capital",
+                "name_translated": "Brussels Capital"
             }
         }
     }
