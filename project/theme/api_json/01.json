@@ -1,5 +1,6 @@
 {
     "data": {
+        
         "timezone": {
             "id": "America\/New_York",
             "current_time": "2022-06-18T02:26:05-04:00",
@@ -7,6 +8,7 @@
             "is_daylight_saving": true,
             "gmt_offset": -14400
         },
+        "img": "../image/01.jfif",
         "ip": "149.22.252.215",
         "type": "v4",
         "connection": {

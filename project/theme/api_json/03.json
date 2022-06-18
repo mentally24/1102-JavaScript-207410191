@@ -7,6 +7,7 @@
             "is_daylight_saving": false,
             "gmt_offset": 32400
         },
+        "img": "../image/03.jfif",
         "ip": "60.74.155.35",
         "type": "v4",
         "connection": {
