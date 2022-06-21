@@ -34,8 +34,7 @@
 ### s2-5參考W04檔案做出來的按鈕
 ![](s2-5.png)
 
-### gitlog
-![](gitlog.png)
+
 
 ### 自主學習
 
@@ -60,8 +59,15 @@ ${item.data.location.country.currencies[0].name}
 
 ![](p-3.png)
 
+### gitlog
+![](gitlog.png)
 ```
 $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-06-18"
+b018a0e mentally24      Tue Jun 21 14:31:22 2022 +0800  final_project p-3
+3357803 mentally24      Tue Jun 21 14:26:46 2022 +0800  final_project p-2
+6f43f89 mentally24      Tue Jun 21 14:19:46 2022 +0800  final_project p-1
+3d7c7e2 mentally24      Tue Jun 21 14:14:40 2022 +0800  final_project a-2~a-3
+59fb916 mentally24      Tue Jun 21 14:01:43 2022 +0800  final_project a1
 f666008 mentally24      Sun Jun 19 01:30:29 2022 +0800  final_project s2-5
 e1382b1 mentally24      Sun Jun 19 00:46:57 2022 +0800  final_project s2-5
 3f0e660 mentally24      Sun Jun 19 00:12:41 2022 +0800  final_project s2-4

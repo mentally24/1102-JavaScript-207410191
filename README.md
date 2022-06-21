@@ -1,46 +1,41 @@
 # 1102-JavaScript-207410191
 
 ### w01 md
-![p1](./demo/w01~2/img/w01/p1_1.png) 
-![p2](./demo/w01~2/img/w01/p1_2.png)
-![p3](./demo/w01~2/img/w01/p2_1.png)
-![p4](./demo/w01~2/img/w01/p2_2.png)
+[w1](../1102-JavaScript-207410191/demo/w01~2/w01_91.md) 
+
 ### w02 md
-![p1](./demo/w01~2/img/w02/w02-1.png) 
-![p2](./demo/w01~2/img/w02/w02-2.png) 
-![p3](./demo/w01~2/img/w02/w02-3.png) 
+[w2](../1102-JavaScript-207410191/demo/w01~2/w02_91.md) 
 ### w03 md
-![p1](./demo/w03/md/W3-1.PNG) 
-![p2](./demo/w03/md/W3-2.PNG) 
+[w3](../1102-JavaScript-207410191/demo/w03/md/md.md) 
 ### w04 md
-![p1](./demo/w04/md/W4.png) 
-![p2](./demo/w04/md/W4-2.png) 
-![p3](./demo/w04/md/W4-3.png) 
-![p4](./demo/w04/md/W4-4.png) 
+[w4](../1102-JavaScript-207410191/demo/w04/md/w04_91.md) 
 ### w05 md
-![p1](./demo/w05/md/p1.png)
-![p2](./demo/w05/md/p2.png)
-![p3](./demo/w05/md/p3.png) 
+[w5](../1102-JavaScript-207410191/demo/w05/md/guess_number.md) 
 ### w06 md
-![p1](./demo/w06/theme1/MD/W6-1.png) 
-![p2](./demo/w06/theme1/MD/W6-2.png) 
-![p3](./demo/w06/theme1/MD/W6-3.png) 
-![p4](./demo/w06/theme1/MD/W6-4.png) 
-![p5](./demo/w06/theme1/MD/W6-5.png) 
+[w6](../1102-JavaScript-207410191/demo/w06/theme1/MD/md.md) 
 ### w08 md
-![p1](./demo/w08/md/w08/p1-1.png) 
+[w8](../1102-JavaScript-207410191/demo/w08/md/w08/w08.md) 
 
 ### w09 md
-![p1](./demo/exam/midprep/md/md0.png) 
-![p2](./demo/exam/midprep/md/md1.png) 
-![p3](./demo/exam/midprep/md/md2.png) 
-![p4](./demo/exam/midprep/md/1.png) 
-![p5](./demo/exam/midprep/md/2-1.png) 
-![p6](./demo/exam/midprep/md/2-2.png) 
-![p7](./demo/exam/midprep/md/p1.png) 
+[w9](../1102-JavaScript-207410191/demo/exam/midprep/md/W09_91.md) 
 
 
+### w12 md
+[w12](../1102-JavaScript-207410191/demo/w12/md.md) 
 
+### w13 md
+[w13](../1102-JavaScript-207410191/demo/w13/md/md.md)
 
+### w14 md
+[w14](../1102-JavaScript-207410191/demo/w14/cocktaildb_91/md/md.mdd) 
+
+### w15 md
+[w15](../1102-JavaScript-207410191/demo/w15/W15_md.md) 
+
+### w16 md
+[w16](../1102-JavaScript-207410191/demo/w16/md/w16-md.md) 
+
+### w17 md
+[w17](../1102-JavaScript-207410191/demo/w17/w17md/md.md) 
 
  
