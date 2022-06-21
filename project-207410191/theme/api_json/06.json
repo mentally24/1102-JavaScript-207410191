@@ -1,0 +1,87 @@
+{
+    "data": {
+        "timezone": {
+            "id": "America\/Sao_Paulo",
+            "current_time": "2022-06-18T03:50:11-03:00",
+            "code": "-03",
+            "is_daylight_saving": false,
+            "gmt_offset": -10800
+        },
+        "img": "../image/06.jfif.jpg",
+        "ip": "189.69.9.230",
+        "type": "v4",
+        "connection": {
+            "asn": 27699,
+            "organization": "TELEFONICA BRASIL S.A",
+            "isp": "Telefnica Brasil s.A"
+        },
+        "location": {
+            "geonames_id": 3448439,
+            "latitude": -23.5515193939209,
+            "longitude": -46.633140563964844,
+            "zip": "01001-000",
+            "continent": {
+                "code": "SA",
+                "name": "South America",
+                "name_translated": "South America"
+            },
+            "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "calling_codes": [
+                    "+55"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "R$",
+                        "name": "Brazilian Real",
+                        "symbol_native": "R$",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "BRL",
+                        "name_plural": "Brazilian reals"
+                    }
+                ],
+                "emoji": "🇧🇷",
+                "ioc": "BRA",
+                "languages": [
+                    {
+                        "name": "Portuguese",
+                        "name_native": "Português"
+                    }
+                ],
+                "name": "Brazil",
+                "name_translated": "Brazil",
+                "timezones": [
+                    "America\/Noronha",
+                    "America\/Belem",
+                    "America\/Fortaleza",
+                    "America\/Recife",
+                    "America\/Araguaina",
+                    "America\/Maceio",
+                    "America\/Bahia",
+                    "America\/Sao_Paulo",
+                    "America\/Campo_Grande",
+                    "America\/Cuiaba",
+                    "America\/Santarem",
+                    "America\/Porto_Velho",
+                    "America\/Boa_Vista",
+                    "America\/Manaus",
+                    "America\/Eirunepe",
+                    "America\/Rio_Branco"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "São Paulo",
+                "name_translated": "São Paulo"
+            },
+            "region": {
+                "fips": "BR-27",
+                "alpha2": "BR-SP",
+                "name": "São Paulo",
+                "name_translated": "São Paulo"
+            }
+        }
+    }
+}

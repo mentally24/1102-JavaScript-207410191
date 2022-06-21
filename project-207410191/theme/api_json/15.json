@@ -1,0 +1,101 @@
+{
+    "data": {
+        "timezone": {
+            "id": "Asia\/Krasnoyarsk",
+            "current_time": "2022-06-18T19:42:01+07:00",
+            "code": "+07",
+            "is_daylight_saving": false,
+            "gmt_offset": 25200
+        },
+        "img": "../image/15.jfif.jpg",
+        "ip": "2.61.87.110",
+        "type": "v4",
+        "connection": {
+            "asn": 12389,
+            "organization": "Rostelecom",
+            "isp": "Pjsc Rostelecom"
+        },
+        "location": {
+            "geonames_id": 1512236,
+            "latitude": 53.716670989990234,
+            "longitude": 91.4333267211914,
+            "zip": "655000",
+            "continent": {
+                "code": "AS",
+                "name": "Asia",
+                "name_translated": "Asia"
+            },
+            "country": {
+                "alpha2": "RU",
+                "alpha3": "RUS",
+                "calling_codes": [
+                    "+7",
+                    "+7 3",
+                    "+7 4",
+                    "+7 8"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "RUB",
+                        "name": "Russian Ruble",
+                        "symbol_native": "руб.",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "RUB",
+                        "name_plural": "Russian rubles"
+                    }
+                ],
+                "emoji": "🇷🇺",
+                "ioc": "RUS",
+                "languages": [
+                    {
+                        "name": "Russian",
+                        "name_native": "русский язык"
+                    }
+                ],
+                "name": "Russia",
+                "name_translated": "Russia",
+                "timezones": [
+                    "Europe\/Kaliningrad",
+                    "Europe\/Moscow",
+                    "Europe\/Simferopol",
+                    "Europe\/Volgograd",
+                    "Europe\/Kirov",
+                    "Europe\/Astrakhan",
+                    "Europe\/Saratov",
+                    "Europe\/Ulyanovsk",
+                    "Europe\/Samara",
+                    "Asia\/Yekaterinburg",
+                    "Asia\/Omsk",
+                    "Asia\/Novosibirsk",
+                    "Asia\/Barnaul",
+                    "Asia\/Tomsk",
+                    "Asia\/Novokuznetsk",
+                    "Asia\/Krasnoyarsk",
+                    "Asia\/Irkutsk",
+                    "Asia\/Chita",
+                    "Asia\/Yakutsk",
+                    "Asia\/Khandyga",
+                    "Asia\/Vladivostok",
+                    "Asia\/Ust-Nera",
+                    "Asia\/Magadan",
+                    "Asia\/Sakhalin",
+                    "Asia\/Srednekolymsk",
+                    "Asia\/Kamchatka",
+                    "Asia\/Anadyr"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Abakan",
+                "name_translated": "Abakan"
+            },
+            "region": {
+                "fips": "RS-31",
+                "alpha2": "RU-KK",
+                "name": "Khakasiya Republic",
+                "name_translated": "Khakasiya Republic"
+            }
+        }
+    }
+}

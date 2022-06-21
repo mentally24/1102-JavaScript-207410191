@@ -1,0 +1,88 @@
+{
+    "data": {
+        "timezone": {
+            "id": "Europe\/London",
+            "current_time": "2022-06-18T07:54:35+01:00",
+            "code": "BST",
+            "is_daylight_saving": true,
+            "gmt_offset": 3600
+        },
+        "img": "../image/13.jfif.jpg",
+        "ip": "213.31.253.33",
+        "type": "v4",
+        "connection": {
+            "asn": 6871,
+            "organization": "British Telecommunications PLC",
+            "isp": "British Telecommunications Plc"
+        },
+        "location": {
+            "geonames_id": 2656295,
+            "latitude": 51.6127815246582,
+            "longitude": -0.22333000600337982,
+            "zip": "EN5",
+            "continent": {
+                "code": "EU",
+                "name": "Europe",
+                "name_translated": "Europe"
+            },
+            "country": {
+                "alpha2": "GB",
+                "alpha3": "GBR",
+                "calling_codes": [
+                    "+44"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "£",
+                        "name": "British Pound Sterling",
+                        "symbol_native": "£",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "GBP",
+                        "name_plural": "British pounds sterling"
+                    }
+                ],
+                "emoji": "🇬🇧",
+                "ioc": "GBR",
+                "languages": [
+                    {
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    {
+                        "name": "Cornish",
+                        "name_native": "Kernewek"
+                    },
+                    {
+                        "name": "Irish",
+                        "name_native": "Gaeilge"
+                    },
+                    {
+                        "name": "Gaelic",
+                        "name_native": "Gaelic"
+                    },
+                    {
+                        "name": "Welsh",
+                        "name_native": "Cymraeg"
+                    }
+                ],
+                "name": "United Kingdom",
+                "name_translated": "United Kingdom",
+                "timezones": [
+                    "Europe\/London"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Barnet",
+                "name_translated": "Barnet"
+            },
+            "region": {
+                "fips": "",
+                "alpha2": "",
+                "name": "England",
+                "name_translated": "England"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "timezone": {
+            "id": "Asia\/Shanghai",
+            "current_time": "2022-06-18T14:48:04+08:00",
+            "code": "CST",
+            "is_daylight_saving": false,
+            "gmt_offset": 28800
+        },
+        "img": "../image/02.jfif.jpg",
+        "ip": "115.45.29.150",
+        "type": "v4",
+        "connection": {
+            "asn": 17962,
+            "organization": "ShenZhen Topway Video Communication Co. Ltd",
+            "isp": "Shenzhen Topway Video Communication Co. Ltd"
+        },
+        "location": {
+            "geonames_id": 1795565,
+            "latitude": 22.547500610351562,
+            "longitude": 114.10166931152344,
+            "zip": "518000",
+            "continent": {
+                "code": "AS",
+                "name": "Asia",
+                "name_translated": "Asia"
+            },
+            "country": {
+                "alpha2": "CN",
+                "alpha3": "CHN",
+                "calling_codes": [
+                    "+86"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "CN¥",
+                        "name": "Chinese Yuan",
+                        "symbol_native": "CN¥",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "CNY",
+                        "name_plural": "Chinese yuan"
+                    }
+                ],
+                "emoji": "🇨🇳",
+                "ioc": "CHN",
+                "languages": [
+                    {
+                        "name": "Chinese",
+                        "name_native": "中文 (Zhōngwén)"
+                    }
+                ],
+                "name": "China",
+                "name_translated": "China",
+                "timezones": [
+                    "Asia\/Shanghai",
+                    "Asia\/Urumqi"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Shenzhen",
+                "name_translated": "Shenzhen"
+            },
+            "region": {
+                "fips": "CH-30",
+                "alpha2": "CN-GD",
+                "name": "Guangdong",
+                "name_translated": "Guangdong"
+            }
+        }
+    }
+}

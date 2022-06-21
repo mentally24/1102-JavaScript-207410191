@@ -1,0 +1,100 @@
+{
+    "data": {
+        "timezone": {
+            "id": "America\/Chicago",
+            "current_time": "2022-06-18T01:50:26-05:00",
+            "code": "CDT",
+            "is_daylight_saving": true,
+            "gmt_offset": -18000
+        },
+        "img": "../image/07.jfif.jpg",
+        "ip": "69.6.88.34",
+        "type": "v4",
+        "connection": {
+            "asn": null,
+            "organization": null,
+            "isp": null
+        },
+        "location": {
+            "geonames_id": 4887398,
+            "latitude": 41.84885025024414,
+            "longitude": -87.67124938964844,
+            "zip": "60608",
+            "continent": {
+                "code": "NA",
+                "name": "North America",
+                "name_translated": "North America"
+            },
+            "country": {
+                "alpha2": "US",
+                "alpha3": "USA",
+                "calling_codes": [
+                    "+1"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "$",
+                        "name": "US Dollar",
+                        "symbol_native": "$",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "USD",
+                        "name_plural": "US dollars"
+                    }
+                ],
+                "emoji": "🇺🇸",
+                "ioc": "USA",
+                "languages": [
+                    {
+                        "name": "English",
+                        "name_native": "English"
+                    }
+                ],
+                "name": "United States",
+                "name_translated": "United States",
+                "timezones": [
+                    "America\/New_York",
+                    "America\/Detroit",
+                    "America\/Kentucky\/Louisville",
+                    "America\/Kentucky\/Monticello",
+                    "America\/Indiana\/Indianapolis",
+                    "America\/Indiana\/Vincennes",
+                    "America\/Indiana\/Winamac",
+                    "America\/Indiana\/Marengo",
+                    "America\/Indiana\/Petersburg",
+                    "America\/Indiana\/Vevay",
+                    "America\/Chicago",
+                    "America\/Indiana\/Tell_City",
+                    "America\/Indiana\/Knox",
+                    "America\/Menominee",
+                    "America\/North_Dakota\/Center",
+                    "America\/North_Dakota\/New_Salem",
+                    "America\/North_Dakota\/Beulah",
+                    "America\/Denver",
+                    "America\/Boise",
+                    "America\/Phoenix",
+                    "America\/Los_Angeles",
+                    "America\/Anchorage",
+                    "America\/Juneau",
+                    "America\/Sitka",
+                    "America\/Metlakatla",
+                    "America\/Yakutat",
+                    "America\/Nome",
+                    "America\/Adak",
+                    "Pacific\/Honolulu"
+                ],
+                "is_in_european_union": false
+            },
+            "city": {
+                "name": "Chicago",
+                "name_translated": "Chicago"
+            },
+            "region": {
+                "fips": "",
+                "alpha2": "",
+                "name": "Illinois",
+                "name_translated": "Illinois"
+            }
+        }
+    }
+}
