@@ -56,6 +56,9 @@ ${item.data.location.country.currencies[0].name}
 ### P-2 路徑一開始不知道怎麼設定，看了網路上的文章之後就可以找到像想要的路徑了
 ![](p-2.png)
 
+### p-3 一開始看不懂這個程式碼如何運作，看了之前的影片了解了之後成功把想要的東西做出來
+
+![](p-3.png)
 
 ```
 $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-06-18"
