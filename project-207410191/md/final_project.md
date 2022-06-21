@@ -48,8 +48,11 @@ ${item.data.location.country.currencies[0].name}
 ### A-3 參考W04的網頁做出想要的模板
 ![](a-3.png)
 
+### 問題解決
 
+### P-1 一開始的時候一直找不到正確的路徑來找到貨幣名稱
 
+![](p-1.png)
 
 ```
 $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-06-18"
