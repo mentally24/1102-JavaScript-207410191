@@ -39,10 +39,17 @@
 
 ### 自主學習
 
-### 在找尋資料的路徑圖中利用陣列來找尋資料
+### A-1 在找尋資料的路徑圖中利用陣列來找尋資料
 ```
 ${item.data.location.country.currencies[0].name}
 ```
+### A-2 參考week4的網頁修改成自己想要的格式
+![](a-2.png)
+### A-3 參考W04的網頁做出想要的模板
+![](a-3.png)
+
+
+
 
 ```
 $ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2022-06-18"
